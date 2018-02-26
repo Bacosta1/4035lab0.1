@@ -1,0 +1,11 @@
+8
+
+https://plus.google.com/
+https://plus.google.com/serviceworker.js
+true
+{eca146d3-0369-4472-81a3-bc6472bb0c7e}
+0
+1519660172095250
+1519660172102840
+1519660171726972
+#

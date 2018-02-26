@@ -1,0 +1,32 @@
+
+** (unity-settings-daemon:31580): WARNING **: Unable to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(unity-settings-daemon:31580): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:31580): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:31580): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:31580): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:31580): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:31580): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:31580): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:31580): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:31580): color-plugin-WARNING **: failed to set screen _ICC_PROFILE: Failed to open file '/home/students/3011a8/.local/share/icc/edid-fb74b329e175753a79ac3a63b328bb47.icc': Permission denied
+
+(unity-settings-daemon:31580): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(unity-settings-daemon:31580): GLib-GObject-CRITICAL **: g_signal_handlers_disconnect_matched: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+** (unity-settings-daemon:11347): WARNING **: Unable to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(unity-settings-daemon:11347): color-plugin-WARNING **: failed to set screen _ICC_PROFILE: Failed to open file '/home/students/4015a13/.local/share/icc/edid-2f53a21483b261a46f0156e0ce5e2896.icc': Permission denied
+
+(unity-settings-daemon:11347): power-plugin-WARNING **: failed to turn the kbd backlight off: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.freedesktop.UPower.KbdBacklight' on object at path /org/freedesktop/UPower/KbdBacklight
+
+(unity-settings-daemon:11347): color-plugin-WARNING **: failed to set screen _ICC_PROFILE: Failed to open file '/var/lib/lightdm/.local/share/icc/edid-2f53a21483b261a46f0156e0ce5e2896.icc': Permission denied
